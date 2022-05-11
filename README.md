@@ -1,1 +1,1 @@
-# Personal SIte built with React and Sanity.io
+# Personal Site built with React and Sanity.io
